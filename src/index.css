@@ -1,4 +1,4 @@
-@import "~boxicons/css/boxicons.min.css";
+@import url("boxicons/css/boxicons.min.css");
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
